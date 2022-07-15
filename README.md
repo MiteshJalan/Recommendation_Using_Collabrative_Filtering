@@ -51,5 +51,4 @@ Github is not able to show bar graphs so please go through the drive link below 
 ## Author
 
 - Mitesh Jalan
-- B.Tech student at Hinndustan University
 
