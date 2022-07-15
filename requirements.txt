@@ -1,0 +1,5 @@
+python==3.7
+plotly==5.7.0
+pandas==1.0.5
+numpy==1.19.2
+scikit-surprise==1.1.1
